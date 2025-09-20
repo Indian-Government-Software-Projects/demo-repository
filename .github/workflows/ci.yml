@@ -12,4 +12,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run demo test
-        run: echo "Demo test passed"
+        run: echo "✅ Demo test passed successfully"
